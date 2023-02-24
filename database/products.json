@@ -1,0 +1,26 @@
+[
+    {
+        "id": "2d0aa93187ff6d163eff7f92e0e9a585",
+        "user_id": "676d6967b0c4ca188c8b260daee84234",
+        "name": "BMW E46",
+        "price": "13K",
+        "author": "Abduazimov",
+        "img": "https://res.cloudinary.com/abduazimov/image/upload/v1677219330/assets/agnubwgl2bvsvngmpp5x.jpg"
+    },
+    {
+        "id": "e8c29c87e8a714c35f0b5f4ee6013f98",
+        "user_id": "676d6967b0c4ca188c8b260daee84234",
+        "name": "BMW E34",
+        "author": "Abdurakhman",
+        "price": "120K",
+        "img": "https://res.cloudinary.com/abduazimov/image/upload/v1677219330/assets/agnubwgl2bvsvngmpp5x.jpg"
+    },
+    {
+        "id": "bc51e5dc1db77a8ca0cd2e328a19ce3e",
+        "user_id": "dd1a03ffed398b6d407697d972913219",
+        "name": "Toyota Supra MK4",
+        "author": "Abdukareem",
+        "price": "500K",
+        "img": ""
+    }
+]
